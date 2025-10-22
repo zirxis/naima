@@ -1,0 +1,21 @@
+{
+  "name": "niama-platform",
+  "version": "1.0.0",
+  "description": "نعمة - منصة جزائرية لإعادة تدوير الخبز",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "recycling",
+    "sustainability",
+    "algeria",
+    "niama"
+  ],
+  "author": "Niâma Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
